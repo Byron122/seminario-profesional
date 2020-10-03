@@ -1,9 +1,9 @@
-var nombre = "Jonathan"
-var apellido = "Almeida"
+var nombre = "Byron"
+var apellido = "Martinez"
 
 //CADENA DE CARACTERES
 
-var nombre = 'Jonathan', apellido = 'Almeida'
+var nombre = 'Byron', apellido = 'Martinez'
 
 var nombreMayusculas = nombre.toUpperCase()
 var apellidoMayusculas = apellido.toUpperCase()
